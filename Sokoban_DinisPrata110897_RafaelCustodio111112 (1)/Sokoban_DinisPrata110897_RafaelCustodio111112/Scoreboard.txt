@@ -1,0 +1,33 @@
+SOKOBAN SCOREBOARD
+LEVEL 0
+-> PLAYER: FD MOVES: 13
+-> PLAYER: asdf MOVES: 13
+
+LEVEL 1
+-> PLAYER: asdf MOVES: 47
+
+
+LEVEL 2
+
+
+
+LEVEL 3
+
+
+
+LEVEL 4
+
+
+
+LEVEL 5
+
+
+
+LEVEL 6
+
+
+
+LEVEL 7
+
+
+
